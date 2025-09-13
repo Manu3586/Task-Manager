@@ -4,7 +4,7 @@ A sleek and interactive web-based **Task Manager** that helps users keep track o
 
 ![Task Manager Screenshot](https://github.com/user-attachments/assets/92033a7b-bb08-4b2d-8c3c-8d6b3994ef03)
 
-[🌐 Live Demo]((https://manu3586.github.io/Task-Manager/))
+[🌐 Live Demo](https://manu3586.github.io/Task-Manager/)
 
 
 ## 🚀 Features
