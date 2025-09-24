@@ -2,7 +2,8 @@
 
 A sleek and interactive web-based **Task Manager** that helps users keep track of their daily tasks. It is built using **HTML**, **CSS**, **JavaScript**, and **Tailwind CSS** to provide a modern, responsive, and user-friendly interface.
 
-![Task Manager Screenshot]<img width="1103" height="557" alt="Screenshot 2025-09-24 233439" src="https://github.com/user-attachments/assets/a496df21-d17f-454a-b7aa-3c96162f4ee6" />
+# Preview
+<img width="1103" height="557" alt="Screenshot 2025-09-24 233439" src="https://github.com/user-attachments/assets/a496df21-d17f-454a-b7aa-3c96162f4ee6" />
 
 
 [🌐 Live Demo](https://manu3586.github.io/Task-Manager/)
